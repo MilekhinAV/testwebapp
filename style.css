@@ -1,0 +1,29 @@
+body
+{
+	background: #000000;
+    margin: -3em 0 0 0;
+	color: #222;
+    margin: 0;
+    background-size: cover;
+    height: 100px;
+
+}
+h1 
+{
+	position: absolute;
+	color: #00ffff;
+    top: -65px;
+    padding: 20px; 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    font-size:50pt;
+    text-align: center;
+}
+
+.pikcha {
+	width = 150;
+	height = 125;
+    text-align: center;
+}
+
